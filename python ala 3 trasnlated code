@@ -1,0 +1,4 @@
+a = 5
+b = 10
+total_sum = a + b
+print("Sum =", total_sum)
